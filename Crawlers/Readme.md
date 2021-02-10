@@ -3,7 +3,7 @@
 <strong>❎: Crawler could not be made</strong><br>
 <strong>☑️: Crawler ready</strong><br>
 <br>
-❎ UBS Realty Investors	www.ubs.com/us/en/real-estate.html button dissapears<br>
+❎ UBS Realty Investors	www.ubs.com/us/en/real-estate.html  button dissapears<br>
 ❎ Union Square Hospitality Group	ehi.fund/	cloudflare ban<br>
 ❎ UrbanAmerica Advisors	www.urbanamericainc.com/index.html non functionning website<br>
 ❎ VGO Capital	vgocapital.com/ recaptcha/user creation needed<br>
