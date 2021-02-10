@@ -1,32 +1,32 @@
 <h1><center>This folder contains all the crawlers created.<h1><br>
 <h1><center>List of all websites</h1><br>
-<strong>#: Crawler could not be made</strong><br>
-<strong>U+274C: Crawler ready</strong><br>
-<strong>#: Crawler could not be made</strong> <br>
-# UBS Realty Investors	www.ubs.com/us/en/real-estate.html button dissapears<br>
-# Union Square Hospitality Group	ehi.fund/	cloudflare ban<br>
-# UrbanAmerica Advisors	www.urbanamericainc.com/index.html non functionning website<br>
-# VGO Capital	vgocapital.com/ recaptcha/user creation needed<br>
-# Village Ventures	villageventures.com/ one page website<br>
-X Vision Capital	www.visioncapital.com/<br>
-# Wayzata Investment Partners	wayzatainvestmentpartners.com/ one page website<br>
-# Westbrook Partners	www.westbrookpartners.com/ no news<br>
-# Willis Stein & Partners	www.willisstein.com/ private wesbite<br>
-# Wilshire Asia Private Markets	www.wilshire.com/ no news<br>
-X WindRose Health Investors	www.windrose.com/<br>
-# Worldview Technology Partners	www.worldview.com/#close no news<br>
-# Xenon Private Equity	xenonpe.com/en/homepage/ no news<br>
-X Energy & Minerals Group	www.emgtx.com/xenonpe<br>
-# Courtland Partners	www.stepstoneglobal.com/ Recaptcha V3<br>
-X Henderson Park	www.stonepoint.com/companies/?c=henderson-park-capital<br>
-# Care Capital	www.carecapital.com/ one page website<br>
-# InterMedia Advisors	www.intermediaadvisors.com/ one page website<br>
-X HealthCap	www.healthcap.eu/<br>
-# Global Catalyst Partners	www.gc-partners.com/ no news<br>
-# Ranieri Real Estate Partners	www.ranieripartners.com/residential-real-estate-strategies dead website<br>
-# Northwood Investors	www.northwoodinvestors.com/ no news<br>
-# Paul Capital Partners	www.paulcap.com/ non functionning website<br>
-X The Roxborough Group	www.theroxboroughgroup.com/<br>
+<strong>❎: Crawler could not be made</strong><br>
+<strong>☑️: Crawler ready</strong><br>
+<br>
+❎ UBS Realty Investors	www.ubs.com/us/en/real-estate.html button dissapears<br>
+❎ Union Square Hospitality Group	ehi.fund/	cloudflare ban<br>
+❎ UrbanAmerica Advisors	www.urbanamericainc.com/index.html non functionning website<br>
+❎ VGO Capital	vgocapital.com/ recaptcha/user creation needed<br>
+❎ Village Ventures	villageventures.com/ one page website<br>
+☑️ Vision Capital	www.visioncapital.com/<br>
+❎ Wayzata Investment Partners	wayzatainvestmentpartners.com/ one page website<br>
+❎ Westbrook Partners	www.westbrookpartners.com/ no news<br>
+❎ Willis Stein & Partners	www.willisstein.com/ private wesbite<br>
+❎ Wilshire Asia Private Markets	www.wilshire.com/ no news<br>
+☑️ WindRose Health Investors	www.windrose.com/<br>
+❎ Worldview Technology Partners	www.worldview.com/#close no news<br>
+❎ Xenon Private Equity	xenonpe.com/en/homepage/ no news<br>
+☑️ Energy & Minerals Group	www.emgtx.com/xenonpe<br>
+❎ Courtland Partners	www.stepstoneglobal.com/ Recaptcha V3<br>
+☑️ Henderson Park	www.stonepoint.com/companies/?c=henderson-park-capital<br>
+❎ Care Capital	www.carecapital.com/ one page website<br>
+❎ InterMedia Advisors	www.intermediaadvisors.com/ one page website<br>
+☑️ HealthCap	www.healthcap.eu/<br>
+❎ Global Catalyst Partners	www.gc-partners.com/ no news<br>
+❎ Ranieri Real Estate Partners	www.ranieripartners.com/residential-real-estate-strategies dead website<br>
+❎ Northwood Investors	www.northwoodinvestors.com/ no news<br>
+❎ Paul Capital Partners	www.paulcap.com/ non functionning website<br>
+☑️ The Roxborough Group	www.theroxboroughgroup.com/<br>
 EISER Infrastructure Partners	www.eiserinfrastructure.com/<br>
 Alloy Ventures	www.alloyventures.com<br>
 Paladin Capital Group	https://www.paladincapgroup.com/<br>
