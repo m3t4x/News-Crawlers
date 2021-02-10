@@ -27,12 +27,12 @@
 ❎ Northwood Investors	www.northwoodinvestors.com/ no news<br>
 ❎ Paul Capital Partners	www.paulcap.com/ non functionning website<br>
 ☑️ The Roxborough Group	www.theroxboroughgroup.com/<br>
-EISER Infrastructure Partners	www.eiserinfrastructure.com/<br>
-Alloy Ventures	www.alloyventures.com<br>
-Paladin Capital Group	https://www.paladincapgroup.com/<br>
-Prism Capital Mezzanine Fund	www.prismfund.com/<br>
-Sabre Fund Management	www.sabrefund.com/<br>
-CHCP - Real Estate	www.crowholdingscapital.com/<br>
+❎ EISER Infrastructure Partners	www.eiserinfrastructure.com/ non working website<br>
+❎ Alloy Ventures	www.alloyventures.com non working website <br>
+☑️ Paladin Capital Group	https://www.paladincapgroup.com/<br>
+❎ Prism Capital Mezzanine Fund	www.prismfund.com/ No news page<br>
+❎ Sabre Fund Management	www.sabrefund.com/ Non working website<br>
+☑️CHCP - Real Estate	www.crowholdingscapital.com/<br>
 De Novo Ventures	www.denovovc.com/index.html<br>
 Insight Venture Partners	www.insightpartners.com/<br>
 Redpoint Ventures	redpoint.com/<br>
