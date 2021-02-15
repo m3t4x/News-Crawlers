@@ -32,13 +32,13 @@
 ☑️ Paladin Capital Group	https://www.paladincapgroup.com/<br>
 ❎ Prism Capital Mezzanine Fund	www.prismfund.com/ No news page<br>
 ❎ Sabre Fund Management	www.sabrefund.com/ Non working website<br>
-☑️CHCP - Real Estate	www.crowholdingscapital.com/<br>
-De Novo Ventures	www.denovovc.com/index.html<br>
-Insight Venture Partners	www.insightpartners.com/<br>
-Redpoint Ventures	redpoint.com/<br>
+☑️ CHCP - Real Estate	www.crowholdingscapital.com/<br>
+❎ De Novo Ventures	www.denovovc.com/index.html<br>
+❎ Insight Venture Partners	www.insightpartners.com/<br>
+Redpoint Ventures	www.redpoint.com/<br>
 Beecken Petty O'Keefe & Company	www.bpoc.com/<br>
 J.F. Lehman & Company	www.jflpartners.com/<br>
-Polaris Partners	www.polarispartners.com/<br>
+❎ Polaris Partners	www.polarispartners.com/<br>
 Praedium Group	www.praediumgroup.com/<br>
 ProLogis	www.prologis.com/<br>
 Resilience Capital Partners	resiliencecapital.com/<br>
